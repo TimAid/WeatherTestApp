@@ -6,12 +6,13 @@
 //
 
 import Foundation
-
+//MARK: - NetworkManagerProtocol
 protocol NetworkManagerProtocol: AnyObject {
     func fetchWeather(_ lat: Double, _ lon: Double, completion: @escaping (Weather) -> Void)
     func parseJSON(data: Data) -> Weather?
 }
 
+//MARK: - NetworkManagerImpl
 class NetworkManager: NetworkManagerProtocol {
     
     func fetchWeather(_ lat: Double, _ lon: Double, completion: @escaping (Weather) -> Void) {

@@ -8,6 +8,7 @@
 import Foundation
 import CoreLocation
 
+//MARK: - LocationManager
 class LocationManager {
     
     var weatherManager = NetworkManager()

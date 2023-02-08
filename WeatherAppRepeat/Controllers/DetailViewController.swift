@@ -33,7 +33,6 @@ class DetailViewController: UIViewController {
         guard let modelInfo = weatherData else { return }
         
         cityNameLabel.text = modelInfo.cityName
-        //TODO: iconView
         guard let url = URL(string: "https://yastatic.net/weather/i/icons/funky/dark/\(modelInfo.conditionCode).svg") else { return }
         
         DispatchQueue.main.async { [weak self] in

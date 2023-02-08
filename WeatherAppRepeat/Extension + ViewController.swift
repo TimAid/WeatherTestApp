@@ -33,6 +33,7 @@ extension CityListTableViewController {
     }
     
     
+    //MARK: - UISearchController
     /// configure searchViewController
     /// - Parameter searchViewController: UISearchController
     func configureSearchController(searchController: UISearchController) {

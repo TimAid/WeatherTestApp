@@ -51,6 +51,7 @@ class Weather {
     }
   
     
+    //MARK: - Init
     init?(weather: WeatherModel?) {
         guard let model = weather else { return }
         status = model.fact.condition

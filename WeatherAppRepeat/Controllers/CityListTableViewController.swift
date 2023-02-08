@@ -30,6 +30,7 @@ class CityListTableViewController: UITableViewController {
     var isFiltering: Bool {
         searchController.isActive && !searchBarIsEmpty
     }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
