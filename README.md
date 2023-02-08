@@ -9,6 +9,7 @@ Here are some screenshots of the current develop version.
 **Some Highlights of the App:**
 
 <img src="https://user-images.githubusercontent.com/88784467/217459174-e6297046-c8bd-4e55-a45f-edb18f39e735.png" width="200" height="400"><img src="https://user-images.githubusercontent.com/88784467/217459181-2300cc7f-3d0f-48c1-95e6-d26d606f7c96.png" width="200" height="400"><img src="https://user-images.githubusercontent.com/88784467/217493256-d8cc07a6-484f-4aad-a87d-8f583d84a26c.png" width="200" height="400">
+
 <img src="https://user-images.githubusercontent.com/88784467/217459190-0303b0fa-4d33-4e3d-9831-6ff5b77af8bb.png" width="200" height="400"><img src="https://user-images.githubusercontent.com/88784467/217459192-1e0c5427-0ac9-4854-a284-c38cca55810c.png" width="200" height="400">
 
 
